@@ -2,7 +2,6 @@
 //
 
 #include <iostream>
-#include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -19,6 +18,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    int n;
     char* param = argv[1];
     char* filename = argv[2];
     FILE* file = NULL;

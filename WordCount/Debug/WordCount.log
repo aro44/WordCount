@@ -1,2 +1,3 @@
 ﻿  WordCount.cpp
+F:\GitTest\WordCount\WordCount\WordCount.cpp(21,9): warning C4101: “n”: 未引用的局部变量
   WordCount.vcxproj -> F:\GitTest\WordCount\Debug\WordCount.exe
